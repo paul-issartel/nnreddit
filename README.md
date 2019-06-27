@@ -1,7 +1,9 @@
 # nnreddit
 A Reddit backend for the [Gnus newsreader](http://www.gnus.org/).
 
-NOTE: currently for reading only, login and posting not yet implemented. Message status (read vs. unread, new, flagged) is also not yet handled. Contributions welcome!
+NOTE: this backend only supports reading, login and posting are not implemented. Message status (read vs. unread, new, flagged) is also not supported.
+
+A newer and more complete backend can be found here: https://github.com/dickmao/nnreddit
 
 ## Usage
 
