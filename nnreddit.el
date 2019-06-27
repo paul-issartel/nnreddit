@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2016  Paul Issartel
 
-;; Author: Paul Issartel <paul.issartel@u-psud.fr>
+;; Author: Paul Issartel <contact@paul-issartel.fr>
 ;; Keywords: news
 
 ;; This file is not is part of GNU Emacs.
